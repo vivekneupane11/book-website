@@ -1,19 +1,21 @@
 .bookContainer{
-    height:85vh;
-    width:90%;
+    height:80vh;
+    width:95%;
     margin:auto;
    
     display:flex;
     justify-content:space-between;
+    flex-wrap:wrap;
 }
 
 .bookContainer aside{
-    width:45%;
+    width:42.5%;
     background:#f8eadd;
     border-radius:20px;
     boxShadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     padding:20px 30px;
-
+flex-grow:1;
+margin:20px 10px;
 }
 
 .bookContainer aside p{
