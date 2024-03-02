@@ -57,3 +57,25 @@ margin-bottom:40px;
     background:#000;
     color:#fff;
 }
+
+.floating-toolbar{
+    background:#ffd9d9;
+}
+
+.floating-toolbar-close{
+    background:#ffd9d9;
+
+}
+
+.modal-content-reed{
+    background:#daa4a4;
+
+}
+
+.btn-submit-reed{
+    background:#000;
+}
+.hover-card{
+    background:#f2dfce;
+
+}
